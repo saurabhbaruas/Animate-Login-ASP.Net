@@ -1,0 +1,10 @@
+C:\Users\saurabh\source\repos\Animated_Login_Page\Animated_Login_Page\bin\Animated_Login_Page.dll.config
+C:\Users\saurabh\source\repos\Animated_Login_Page\Animated_Login_Page\bin\Animated_Login_Page.dll
+C:\Users\saurabh\source\repos\Animated_Login_Page\Animated_Login_Page\bin\Animated_Login_Page.pdb
+C:\Users\saurabh\source\repos\Animated_Login_Page\Animated_Login_Page\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\saurabh\source\repos\Animated_Login_Page\Animated_Login_Page\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\saurabh\source\repos\Animated_Login_Page\Animated_Login_Page\obj\Debug\Animated_Login_Page.csproj.CoreCompileInputs.cache
+C:\Users\saurabh\source\repos\Animated_Login_Page\Animated_Login_Page\obj\Debug\Animated_Login_Page.dll
+C:\Users\saurabh\source\repos\Animated_Login_Page\Animated_Login_Page\obj\Debug\Animated_Login_Page.pdb
+C:\Users\saurabh\source\repos\Animated_Login_Page\Animated_Login_Page\obj\Debug\Animated_Login_Page.csprojAssemblyReference.cache
+C:\Users\saurabh\source\repos\Animated_Login_Page\Animated_Login_Page\obj\Debug\Animated_Login_Page.csproj.CopyComplete
